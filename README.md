@@ -94,10 +94,11 @@ These notebooks complement the applied clustering project:
 
 ```
 unsupervised-ml-clustering/
-├── 01_hierarchical_clustering_amazon.ipynb
-├── 02_kmeans_iris.ipynb
-├── 03_pca_iris.ipynb
-├── 04_knn_market_basket.ipynb
+├── notebook/
+│   └── 01_hierarchical_clustering_amazon.ipynb
+│   └── 02_kmeans_iris.ipynb
+│   └── 03_pca_iris.ipynb
+│   └── 04_knn_market_basket.ipynb
 ├── data/
 │   └── wine-clustering.csv     ← required for notebook 04
 └── README.md
